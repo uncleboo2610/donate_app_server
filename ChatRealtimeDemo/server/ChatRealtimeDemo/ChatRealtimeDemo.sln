@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatRealtimeDemo", "ChatRealtimeDemo\ChatRealtimeDemo.csproj", "{48ACEA6D-04BA-4A03-BF02-17A15BB30FF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48ACEA6D-04BA-4A03-BF02-17A15BB30FF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48ACEA6D-04BA-4A03-BF02-17A15BB30FF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48ACEA6D-04BA-4A03-BF02-17A15BB30FF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48ACEA6D-04BA-4A03-BF02-17A15BB30FF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AA71D8A-4006-4EB3-B43F-4F47ECA22D11}
+	EndGlobalSection
+EndGlobal
